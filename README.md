@@ -1,0 +1,2 @@
+# DailyStudy
+My Daily Notes
